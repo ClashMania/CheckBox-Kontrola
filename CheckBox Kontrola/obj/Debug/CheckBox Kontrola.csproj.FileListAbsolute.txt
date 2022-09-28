@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\bin\Debug\CheckBox Kontrola.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\bin\Debug\CheckBox Kontrola.exe
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\bin\Debug\CheckBox Kontrola.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox Kontrola.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox Kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox_Kontrola.Form1.resources
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox_Kontrola.Properties.Resources.resources
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox Kontrola.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox Kontrola.exe
+C:\Users\Ucenik\Documents\GabrielCondric\CheckBox Kontrola\obj\Debug\CheckBox Kontrola.pdb
